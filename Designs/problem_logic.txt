@@ -1,0 +1,11 @@
+KEEPING TRACK OF DREAMS AND GOALS
+Requirements
+1. List of todos
+2. Checkbox to tick off what is done
+3. Button to invite friends to have fun with us
+
+Features
+-Users create accounts -- done
+-Users can login       -- done
+-Users create, view, update and delete bucket lists
+-Users can add,update, view or delete items in a bucket list
