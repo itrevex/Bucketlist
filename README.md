@@ -1,2 +1,2 @@
 # Bucketlist
-This is a trial project to prepare for the bootcamp. Best I have it done before the bootcamp starts
+This is a trial project to prepare me for the Andela bootcamp. So far so good
