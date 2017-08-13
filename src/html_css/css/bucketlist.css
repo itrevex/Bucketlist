@@ -21,7 +21,15 @@ body{
     margin-right: 5px;
     color: #FFF;
     margin-top: 5px;
-    font-size: 5em;
+    font-size: 6em;
+}
+
+#login_title{
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #22679F;
+    margin-top: 5px;
+    font-size: 6em;
 }
 
 #bl_logo{
@@ -60,14 +68,38 @@ body{
 }
 
 #login_email{
-    margin-top: 100px;
-    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
 #loginPassword{
     margin-bottom: 15px;
+    text-align: center;
 }
 #loginButton{
     margin-right: 20px
+}
+
+#login_text{
+    margin-top: 100px;
+}
+#invite_friend_btn{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#bl_main_title{
+    color: #22679F;
+}
+#main_list_item{
+    text-align: left;
+    font-size: 2.5em;
+}
+#icon_one{
+    margin-left: 50px;
+}
+#icon_two{
+    margin-left: 5px;
+    margin-right: 20px;
 }
